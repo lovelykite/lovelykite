@@ -6,6 +6,7 @@
 
 <b>🤖 Robotics Engineer </b>
 - Ph.D candidate at DGIST BRM Lab.
+- Robotics and Mechatronics Engineering, DGIST
 
 <b>🔭 Interest </b>
 - Vision & Deep learning based Human-Robot Collaboration Safety
