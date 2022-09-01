@@ -23,3 +23,5 @@
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
+
+[![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelykite&count_private=true&theme=calm)](https://github.com/lovelykite/github-readme-stats)
