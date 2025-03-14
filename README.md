@@ -17,7 +17,8 @@
 <div align="center"><b>💻 Tech Stack </b></div>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/ROS-1-22314E?style=flat-square&logo=ROS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/ROS-2-22314E?style=flat-square&logo=ros&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
