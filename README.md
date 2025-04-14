@@ -1,13 +1,17 @@
 <b>🤖 Robotics Engineer </b>
 - Ph.D candidate at DGIST BRM Lab.
 - Robotics and Mechatronics Engineering, DGIST
+- Academic Research  
 
 <b>🔭 Interest </b>
 - Vision & Deep learning based Human-Robot Collaboration Safety
 - Manipulator collision avoidance trajectory planning
 - ROS based system integration
 
-#
+<b> 📚 Research Highlights </b>
+
+- [![Research with Google Scholar](https://img.shields.io/badge/Research%20with-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=i-7jHnQAAAAJ&hl=ko)
+
 <div align="center"><b>💻 Tech Stack </b></div>
 </br>
 <p align="center">
